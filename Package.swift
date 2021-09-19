@@ -5,8 +5,8 @@ import PackageDescription
 let package = Package(
     name: "Colorful",
     platforms: [
-        .iOS(.v14),
-        .tvOS(.v14),
+        .iOS(.v13),
+        .tvOS(.v13),
         .macOS(.v10_15),
         .watchOS(.v6)
     ],
