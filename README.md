@@ -8,7 +8,7 @@ A SwiftUI implementation of AppleCard's animated colorful blur background.
 
 ## Usage
 
-```
+```swift
 import Colorful
 
 var body: some View {
@@ -18,7 +18,7 @@ var body: some View {
 
 ## Customization & Defaults
 
-```
+```swift
 init(
     animated: Bool = defaultAnimated,
     animation: Animation = defaultAnimation,
