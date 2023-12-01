@@ -2,7 +2,7 @@
 
 A SwiftUI implementation of AppleCard's animated colorful blur background.
 
-For improved version with Metal, see [ColorfulX](https://github.com/Lakr233/).
+For improved version with Metal, see [ColorfulX](https://github.com/Lakr233/ColorfulX).
 
 ## Preview
 
