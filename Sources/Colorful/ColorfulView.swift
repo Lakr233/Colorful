@@ -7,6 +7,9 @@
 
 import SwiftUI
 
+#if !os(watchOS)
+@available(*, deprecated, message: "This library hurts CPU alot, use Metal program from https://github.com/Lakr233/ColorfulX instead.")
+#endif
 public struct ColorfulView: View {
     // MARK: - PROPERTY
 
